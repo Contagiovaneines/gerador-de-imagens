@@ -1,0 +1,172 @@
+{
+  "clipe": "CLIPE 1 - EM MEMORIA",
+  "tipo": "videos_hino",
+  "duracao_master": "00:06:18",
+  "conceito": "Animacao cinematografica do hino, usando as imagens ja geradas como primeiro quadro de cada cena, com movimento reverente, progressao emocional e fidelidade ao sentido da letra.",
+  "cenas": [
+    {
+      "scene_id": "H01",
+      "ordem": 1,
+      "nome": "001_h01_cura_do_cego_imagens_hino",
+      "tempo_inicio": "01:20",
+      "tempo_fim": "01:35",
+      "duracao_video_segundos": 6,
+      "prompt_video": "Use the input image exactly as the first frame. Animate a gentle cinematic healing moment with a very slow push in, subtle hand movement, soft light blooming into the blind man's vision, slight fabric motion and sacred stillness. The feeling must be compassionate, miraculous and reverent. No face of Jesus ever clearly visible."
+    },
+    {
+      "scene_id": "H02",
+      "ordem": 2,
+      "nome": "002_h02_multiplicacao_dos_paes_imagens_hino",
+      "tempo_inicio": "01:35",
+      "tempo_fim": "01:50",
+      "duracao_video_segundos": 8,
+      "prompt_video": "Use the input image exactly as the first frame. Animate the miracle of provision with a slow cinematic drift, subtle movement in the hands and bread, gentle breeze over garments and grass, and soft sunlight across the crowd. The scene should feel abundant, warm, sacred and full of wonder."
+    },
+    {
+      "scene_id": "H03",
+      "ordem": 3,
+      "nome": "003_h03_pedro_sendo_salvo_imagens_hino",
+      "tempo_inicio": "01:50",
+      "tempo_fim": "02:05",
+      "duracao_video_segundos": 6,
+      "prompt_video": "Use the input image exactly as the first frame. Animate a dramatic rescue on the stormy sea with splashing water, a strong rescuing hand pulling Peter upward, slight camera tension and emotional intensity. The movement must feel urgent but controlled, faithful and cinematic. No face of Jesus ever clearly visible."
+    },
+    {
+      "scene_id": "H04",
+      "ordem": 4,
+      "nome": "004_h04_mar_acalmado_imagens_hino",
+      "tempo_inicio": "02:05",
+      "tempo_fim": "02:20",
+      "duracao_video_segundos": 6,
+      "prompt_video": "Use the input image exactly as the first frame. Animate the storm gradually calming as the raised arm commands the sea, clouds opening, wind softening and the light becoming peaceful. The motion should move from tension into holy peace, expressing divine authority and faithfulness."
+    },
+    {
+      "scene_id": "H05",
+      "ordem": 5,
+      "nome": "005_h05_mulher_tocando_as_vestes_imagens_hino",
+      "tempo_inicio": "02:20",
+      "tempo_fim": "02:35",
+      "duracao_video_segundos": 6,
+      "prompt_video": "Use the input image exactly as the first frame. Animate the trembling hand reaching the robe hem in slow motion, with soft cloth movement, a subtle pulse of healing through the fabric and a very intimate cinematic macro feel. The scene must feel like faith touching mercy, deeply emotional and reverent."
+    },
+    {
+      "scene_id": "H06",
+      "ordem": 6,
+      "nome": "006_h06_discipulos_caminhando_com_jesus_imagens_hino",
+      "tempo_inicio": "02:35",
+      "tempo_fim": "02:50",
+      "duracao_video_segundos": 8,
+      "prompt_video": "Use the input image exactly as the first frame. Animate a gentle handheld follow shot from behind with robes moving in the breeze, dust rising softly from the road and warm sunset light drifting across the frame. The atmosphere must feel intimate, faithful and full of devotion. No face of Jesus ever clearly visible."
+    },
+    {
+      "scene_id": "H07",
+      "ordem": 7,
+      "nome": "007_h07_multidao_em_louvor_imagens_hino",
+      "tempo_inicio": "02:50",
+      "tempo_fim": "03:10",
+      "duracao_video_segundos": 8,
+      "prompt_video": "Use the input image exactly as the first frame. Animate a worship scene with slow emotional movement, raised hands, subtle tears, dust glowing in sunlight and a gentle lateral camera sweep. The scene should feel grateful, reverent and full of praise after witnessing the works of the Lord."
+    },
+    {
+      "scene_id": "H08",
+      "ordem": 8,
+      "nome": "008_h08_entrada_triufal_simbolica_imagens_hino",
+      "tempo_inicio": "03:10",
+      "tempo_fim": "03:30",
+      "duracao_video_segundos": 8,
+      "prompt_video": "Use the input image exactly as the first frame. Animate palm branches waving in slow motion, people honoring the King with subtle movement and joyful reverence, and a soft lateral cinematic sweep. The moment should feel majestic, warm and sacred, expressing glory and adoration. No face of Jesus ever clearly visible."
+    },
+    {
+      "scene_id": "H09",
+      "ordem": 9,
+      "nome": "009_h09_getsemani_imagens_hino",
+      "tempo_inicio": "03:30",
+      "tempo_fim": "03:50",
+      "duracao_video_segundos": 6,
+      "prompt_video": "Use the input image exactly as the first frame. Animate the Gethsemane silhouette with a slow push in, slight trembling in the shoulders and hands, soft moonlight across the garden and faint leaf motion in the night breeze. The scene must feel heavy, surrendered and deeply sorrowful. No face of Jesus ever clearly visible."
+    },
+    {
+      "scene_id": "H10",
+      "ordem": 10,
+      "nome": "010_h10_sofrer_ate_o_fim_imagens_hino",
+      "tempo_inicio": "03:50",
+      "tempo_fim": "04:10",
+      "duracao_video_segundos": 6,
+      "prompt_video": "Use the input image exactly as the first frame. Animate the macro suffering moment with slow droplets falling to the ground, faint earth reaction, sacred tension and a restrained cinematic close-up. The movement should feel intense and reverent, never graphic or violent."
+    },
+    {
+      "scene_id": "H11",
+      "ordem": 11,
+      "nome": "011_h11_prisao_no_jardim_imagens_hino",
+      "tempo_inicio": "04:10",
+      "tempo_fim": "04:30",
+      "duracao_video_segundos": 8,
+      "prompt_video": "Use the input image exactly as the first frame. Animate a tense night arrest with torch flicker, controlled handheld motion, soldiers closing in and disciples fleeing into darkness. The scene should feel chaotic but cinematic, with fear, betrayal and urgency, while remaining reverent."
+    },
+    {
+      "scene_id": "H12",
+      "ordem": 12,
+      "nome": "012_h12_caminho_da_cruz_imagens_hino",
+      "tempo_inicio": "04:30",
+      "tempo_fim": "04:50",
+      "duracao_video_segundos": 8,
+      "prompt_video": "Use the input image exactly as the first frame. Animate the heavy walk under the cross with labored movement, subtle stumble, dust rising from the path and a slow tracking motion. The scene must feel sacrificial, painful and loving, with strong emotional weight. No face of Jesus ever clearly visible."
+    },
+    {
+      "scene_id": "H13",
+      "ordem": 13,
+      "nome": "013_h13_cruz_erguida_imagens_hino",
+      "tempo_inicio": "04:50",
+      "tempo_fim": "05:10",
+      "duracao_video_segundos": 8,
+      "prompt_video": "Use the input image exactly as the first frame. Animate the cross rising slowly against the dark sky, garments moving in strong wind, clouds shifting above and the camera holding the epic low angle. The mood must feel solemn, sacrificial and overwhelming, without showing the face of Jesus."
+    },
+    {
+      "scene_id": "H14",
+      "ordem": 14,
+      "nome": "014_h14_retorno_as_obras_imagens_hino",
+      "tempo_inicio": "05:10",
+      "tempo_fim": "05:30",
+      "duracao_video_segundos": 8,
+      "prompt_video": "Use the input image exactly as the first frame. Animate this symbolic memory montage with layered soft motion, drifting light, subtle transitions in depth and a gentle cinematic push forward. The feeling should be remembrance of miracles, healing, rescue and mercy after the cross."
+    },
+    {
+      "scene_id": "H15",
+      "ordem": 15,
+      "nome": "015_h15_louvor_em_silencio_imagens_hino",
+      "tempo_inicio": "05:30",
+      "tempo_fim": "05:50",
+      "duracao_video_segundos": 6,
+      "prompt_video": "Use the input image exactly as the first frame. Animate a peaceful worship atmosphere with soft sacred light, slight body stillness, gentle cloth motion and a slow contemplative drift. The scene should feel grateful, prayerful and full of quiet praise."
+    },
+    {
+      "scene_id": "H16",
+      "ordem": 16,
+      "nome": "016_h16_memoria_da_fidelidade_imagens_hino",
+      "tempo_inicio": "05:50",
+      "tempo_fim": "06:05",
+      "duracao_video_segundos": 6,
+      "prompt_video": "Use the input image exactly as the first frame. Animate the floating particles with a soft golden drift, very slow push in, subtle sacred light breathing and calm atmospheric motion. The feeling must be certainty, remembrance and the unchanging faithfulness of God."
+    },
+    {
+      "scene_id": "H17",
+      "ordem": 17,
+      "nome": "017_h17_fiel_para_sempre_1_imagens_hino",
+      "tempo_inicio": "06:05",
+      "tempo_fim": "06:12",
+      "duracao_video_segundos": 4,
+      "prompt_video": "Use the input image exactly as the first frame. Animate a radiant sacred stillness with soft light movement, minimal atmospheric motion and a calm cinematic hold. The scene must feel declarative, peaceful and full of confidence in God's faithfulness forever."
+    },
+    {
+      "scene_id": "H18",
+      "ordem": 18,
+      "nome": "018_h18_fiel_para_sempre_2_imagens_hino",
+      "tempo_inicio": "06:12",
+      "tempo_fim": "06:18",
+      "duracao_video_segundos": 4,
+      "prompt_video": "Use the input image exactly as the first frame. Create a final gentle cinematic push into white and golden light, with soft particles and a peaceful luminous ending. The atmosphere must communicate hope, rest and enduring divine faithfulness."
+    }
+  ]
+}
+
+

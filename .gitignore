@@ -1,0 +1,122 @@
+# -----------------------------
+# OS / File Explorer
+# -----------------------------
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# -----------------------------
+# Editors / IDEs
+# -----------------------------
+.vscode/
+.idea/
+*.code-workspace
+*.swp
+*.swo
+*~
+
+# -----------------------------
+# Python
+# -----------------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+.python-version
+
+# Test / lint / type-check caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.pyre/
+.hypothesis/
+.tox/
+.nox/
+
+# Coverage
+.coverage
+.coverage.*
+htmlcov/
+
+# Build / packaging
+build/
+dist/
+site/
+.eggs/
+*.egg-info/
+pip-wheel-metadata/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# -----------------------------
+# Environment / Secrets
+# -----------------------------
+.env
+.env.*
+!.env.example
+.envrc
+.direnv/
+.git-credentials
+
+# Common secret / key material
+*.pem
+*.key
+*.crt
+*.csr
+*.p12
+*.pfx
+*.jks
+*.keystore
+
+# Common credentials files
+credentials/
+credential/
+secrets/
+secret/
+.secrets/
+service-account*.json
+credentials*.json
+firebase-adminsdk*.json
+*.credentials.json
+*.secret.json
+
+# -----------------------------
+# Logs / temp / local runtime
+# -----------------------------
+*.log
+logs/
+tmp/
+temp/
+*.tmp
+*.bak
+*.orig
+
+# Local databases
+*.db
+*.sqlite
+*.sqlite3
+
+# -----------------------------
+# Generated outputs
+# -----------------------------
+data/outputs/raw/**
+!data/outputs/raw/.gitkeep
+data/outputs/organized/**
+!data/outputs/organized/.gitkeep
+
+# Legacy local output folders
+output/
+output_separado/
+output_manifest_teste/
+
+# Keep input data versioned
+!data/inputs/
+!data/inputs/json/

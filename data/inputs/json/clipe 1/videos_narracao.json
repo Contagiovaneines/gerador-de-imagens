@@ -1,0 +1,171 @@
+
+{
+  "clipe": "CLIPE 1 - EM MEMORIA",
+  "tipo": "videos_narracao",
+  "duracao_master": "00:06:10",
+  "conceito": "Animacao cinematografica da narracao, usando as imagens ja geradas como quadro inicial de cada cena, com movimento reverente, lento e simbolico.",
+  "cenas": [
+    {
+      "scene_id": "N00",
+      "ordem": 0,
+      "nome": "000_n00_abertura_historia_do_calvario_imagens_narracao_com_intro_30s",
+      "tempo_inicio": "00:00",
+      "tempo_fim": "00:30",
+      "duracao_video_segundos": 8,
+      "prompt_video": "Use the input image exactly as the first frame. Create a sacred cinematic opening with a very slow push in. Dust particles drift softly through golden light, dry grass moves gently in the wind, the edge of the parchment moves subtly, and the entire scene feels like the beginning of an eternal biblical story. Reverent, calm, symbolic, no face of Jesus ever clearly visible."
+    },
+    {
+      "scene_id": "N01",
+      "ordem": 1,
+      "nome": "001_n01_abertura_memoria_e_promessa_imagens_narracao_com_intro_30s",
+      "tempo_inicio": "00:30",
+      "tempo_fim": "00:40",
+      "duracao_video_segundos": 6,
+      "prompt_video": "Use the input image exactly as the first frame. Animate with a still contemplative atmosphere, only subtle movement in floating dust and golden light, with a very slight camera drift. The feeling is sacred anticipation, as if history is just about to begin. Soft, restrained, cinematic, reverent."
+    },
+    {
+      "scene_id": "N02",
+      "ordem": 2,
+      "nome": "002_n02_esta_e_a_historia_do_calvario_imagens_narracao_com_intro_30s",
+      "tempo_inicio": "00:40",
+      "tempo_fim": "01:00",
+      "duracao_video_segundos": 8,
+      "prompt_video": "Use the input image exactly as the first frame. Create a solemn cinematic shot of the sacred hill with a slow lateral drift and a gentle forward push. Let the warm dawn light deepen slightly and the dry grass move in the breeze. The mood must feel eternal, prophetic and holy, like the place where history changes forever."
+    },
+    {
+      "scene_id": "N03",
+      "ordem": 3,
+      "nome": "003_n03_palavras_de_vida_no_coracao_imagens_narracao_com_intro_30s",
+      "tempo_inicio": "01:00",
+      "tempo_fim": "01:20",
+      "duracao_video_segundos": 6,
+      "prompt_video": "Use the input image exactly as the first frame. Animate a close intimate moment with tiny movement in the hands, slight fabric shift, warm light flicker and a very subtle breathing rhythm. The scene should feel treasured, sacred and close to the heart. Gentle macro realism, reverent and emotional."
+    },
+    {
+      "scene_id": "N04",
+      "ordem": 4,
+      "nome": "004_n04_longa_e_preciosa_historia_imagens_narracao_com_intro_30s",
+      "tempo_inicio": "01:20",
+      "tempo_fim": "01:40",
+      "duracao_video_segundos": 8,
+      "prompt_video": "Use the input image exactly as the first frame. Create a panoramic cinematic movement with a very slow push forward and subtle atmosphere motion in distant light and haze. The landscape should feel timeless, expansive and precious, like a divine story unfolding through generations. Soft, epic, calm."
+    },
+    {
+      "scene_id": "N05",
+      "ordem": 5,
+      "nome": "005_n05_deus_incomparavel_inabalavel_imagens_narracao_com_intro_30s",
+      "tempo_inicio": "01:40",
+      "tempo_fim": "02:00",
+      "duracao_video_segundos": 6,
+      "prompt_video": "Use the input image exactly as the first frame. Animate only the environment: drifting clouds, sacred light slowly intensifying, and a subtle grand camera hold. The feeling must be majestic, immovable and holy, expressing an incomparable and unshakable God. No human action, only divine stillness."
+    },
+    {
+      "scene_id": "N06",
+      "ordem": 6,
+      "nome": "006_n06_o_fim_ja_falado_desde_o_inicio_imagens_narracao_com_intro_30s",
+      "tempo_inicio": "02:00",
+      "tempo_fim": "02:20",
+      "duracao_video_segundos": 6,
+      "prompt_video": "Use the input image exactly as the first frame. Animate a symbolic prophetic scene with slight movement in parchment, ink shimmer, soft warm light and a gentle cinematic push in. The mood should feel like prophecy quietly becoming fulfillment, precise and sacred, with no exaggerated motion."
+    },
+    {
+      "scene_id": "N07",
+      "ordem": 7,
+      "nome": "007_n07_salvacao_nao_esta_mais_em_espera_imagens_narracao_com_intro_30s",
+      "tempo_inicio": "02:20",
+      "tempo_fim": "02:40",
+      "duracao_video_segundos": 6,
+      "prompt_video": "Use the input image exactly as the first frame. Animate decisive light breaking through darkness, with a steady forward push and subtle atmosphere motion. The scene should feel like salvation entering history now, no longer distant. Strong light, restrained movement, holy revelation."
+    },
+    {
+      "scene_id": "N08",
+      "ordem": 8,
+      "nome": "008_n08_escolhidos_amados_e_salvos_imagens_narracao_com_intro_30s",
+      "tempo_inicio": "02:40",
+      "tempo_fim": "02:53",
+      "duracao_video_segundos": 6,
+      "prompt_video": "Use the input image exactly as the first frame. Animate the gathering with subtle shifts in posture, slight cloth motion, warm light moving across faces and a calm drifting camera. The atmosphere must communicate covenant, belonging, love and salvation. Reverent, human, warm."
+    },
+    {
+      "scene_id": "N09",
+      "ordem": 9,
+      "nome": "009_n09_israel_reconta_a_fidelidade_imagens_narracao_com_intro_30s",
+      "tempo_inicio": "02:53",
+      "tempo_fim": "03:13",
+      "duracao_video_segundos": 8,
+      "prompt_video": "Use the input image exactly as the first frame. Animate a slow orbit around the group by the fire, with flickering flames, soft hand gestures, gentle nods and children listening quietly. The atmosphere must feel like sacred oral memory passed through generations. Warm, reverent and deeply human."
+    },
+    {
+      "scene_id": "N10",
+      "ordem": 10,
+      "nome": "010_n10_sangue_do_cordeiro_protegeu_imagens_narracao_com_intro_30s",
+      "tempo_inicio": "03:13",
+      "tempo_fim": "03:33",
+      "duracao_video_segundos": 6,
+      "prompt_video": "Use the input image exactly as the first frame. Animate the marked doorway with a slight hand movement finishing the ritual mark, soft shadow flicker and subtle breathing from the child watching. The feeling should be holy tension, protection and deliverance, never graphic or violent."
+    },
+    {
+      "scene_id": "N11",
+      "ordem": 11,
+      "nome": "011_n11_povo_escravizado_celebra_a_pascoa_imagens_narracao_com_intro_30s",
+      "tempo_inicio": "03:33",
+      "tempo_fim": "03:53",
+      "duracao_video_segundos": 8,
+      "prompt_video": "Use the input image exactly as the first frame. Animate a gentle drift across the meal with small hand movements, candle or fire flicker, subtle fabric motion and quiet joyful expressions. The mood should feel like freedom remembered through Passover, warm, grateful and sacred."
+    },
+    {
+      "scene_id": "N12",
+      "ordem": 12,
+      "nome": "012_n12_o_mundo_liberto_em_cristo_imagens_narracao_com_intro_30s",
+      "tempo_inicio": "03:53",
+      "tempo_fim": "04:12",
+      "duracao_video_segundos": 8,
+      "prompt_video": "Use the input image exactly as the first frame. Animate radiant sacred light spreading across the scene with a slow forward camera motion and drifting particles. The image should feel like redemption expanding outward over the world, victorious yet reverent, hopeful and calm."
+    },
+    {
+      "scene_id": "N13",
+      "ordem": 13,
+      "nome": "013_n13_foi_ferido_pelas_nossas_transgressoes_imagens_narracao_com_intro_30s",
+      "tempo_inicio": "04:32",
+      "tempo_fim": "04:52",
+      "duracao_video_segundos": 6,
+      "prompt_video": "Use the input image exactly as the first frame. Animate the suffering silhouette with a slow descending push, a faint movement in cloth and a narrow shaft of light trembling slightly through dust. The mood must be solemn, sacrificial and holy, expressing burden without gore or explicit violence."
+    },
+    {
+      "scene_id": "N14",
+      "ordem": 14,
+      "nome": "014_n14_traga_a_memoria_o_que_da_esperanca_imagens_narracao_com_intro_30s",
+      "tempo_inicio": "04:52",
+      "tempo_fim": "05:12",
+      "duracao_video_segundos": 6,
+      "prompt_video": "Use the input image exactly as the first frame. Animate hope through expanding soft light, gentle floating particles and a very slow push toward brightness. The feeling must be quiet faith returning, peaceful comfort, memory becoming hope."
+    },
+    {
+      "scene_id": "N15",
+      "ordem": 15,
+      "nome": "015_n15_promessas_batalhas_e_triunfos_imagens_narracao_com_intro_30s",
+      "tempo_inicio": "05:12",
+      "tempo_fim": "05:32",
+      "duracao_video_segundos": 6,
+      "prompt_video": "Use the input image exactly as the first frame. Animate this symbolic memory composition with layered atmospheric motion, drifting light, slight depth movement and a calm cinematic push. The scene should feel like remembered promises, battles and triumphs under divine faithfulness."
+    },
+    {
+      "scene_id": "N16",
+      "ordem": 16,
+      "nome": "016_n16_carne_e_sangue_de_cristo_imagens_narracao_com_intro_30s",
+      "tempo_inicio": "05:32",
+      "tempo_fim": "05:52",
+      "duracao_video_segundos": 6,
+      "prompt_video": "Use the input image exactly as the first frame. Animate the still life reverently: a tiny movement in the cup surface, soft candlelight flicker, subtle falling dust and a slow macro push. The mood must feel solemn, covenantal and deeply sacred."
+    },
+    {
+      "scene_id": "N17",
+      "ordem": 17,
+      "nome": "017_n17_sempre_em_memoria_imagens_narracao_com_intro_30s",
+      "tempo_inicio": "05:52",
+      "tempo_fim": "06:10",
+      "duracao_video_segundos": 8,
+      "prompt_video": "Use the input image exactly as the first frame. Create a peaceful final cinematic shot with a very slow push in, floating dust in soft white and golden light, minimal motion and a quiet sense of remembrance, faith and hope. End with a reverent luminous hold."
+    }
+  ]
+}
